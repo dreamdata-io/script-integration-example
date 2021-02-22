@@ -28,6 +28,12 @@ label {
   font-size: 18px;
 }
 
+input {
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+}
+
 .App-link {
   color: #61dafb;
 }
